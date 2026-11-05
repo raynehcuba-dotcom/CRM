@@ -1,0 +1,6 @@
+{
+  "name": "Aura CRM & Finanzas MIPYME",
+  "description": "Plataforma de gestión comercial y financiera para MIPYMEs con estética orgánica minimalista, embudo de ventas Kanban, clientes, control de facturación y proyección de crecimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
